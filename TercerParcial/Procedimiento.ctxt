@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Procedimiento
+comment1.params=C\u00F3digo
+comment1.target=Procedimiento(java.lang.String)
+comment1.text=\r\n\ Constructor\ heredable\ de\ Superclase\ Procedimiento\r\n
+comment2.params=
+comment2.target=void\ PedirCod()
+comment2.text=\r\n\ M\u00E9todo\ heredable\ para\ pedir\ o\ modificar\ el\ c\u00F3digo\ de\ placa.\r\n
+comment3.params=cod\ Fantasma
+comment3.target=void\ Confirmar(java.lang.String,\ int)
+comment3.text=\r\n\ M\u00E9todo\ heredable\ para\ sobreescribir\ posteriormente.\r\n
+comment4.params=cod\ Fantasma
+comment4.target=void\ validar(java.lang.String,\ int)
+comment4.text=\r\n\ M\u00E9todo\ heredable\ para\ sobreescribir\ posteriormente.\r\n
+numComments=5

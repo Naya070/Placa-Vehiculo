@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlacaDeVeh\u00EDculos
+comment1.params=cod
+comment1.target=PlacaDeVeh\u00EDculos(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlacaDeVeh\u00EDculos\r\n
+comment2.params=cod\ Fantasma
+comment2.target=void\ Confirmar(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Confirma\ que\ los\ dos\ primeros\ y\ dos\ \u00FAltimos\ s\u00EDmbolos\ son\ letras.\ \ \r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=cod
+comment3.target=void\ Confirmar(java.lang.String)
+comment3.text=\r\n\ Confirma\ que\ los\ s\u00EDmbolos\ del\ tercero\ al\ quinto\ son\ letras.\ \ \r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=4

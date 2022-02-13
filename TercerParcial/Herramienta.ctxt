@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Herramienta
+comment1.params=cod\ Fantasma
+comment1.target=boolean\ validar(java.lang.String,\ java.lang.String)
+comment2.params=cod
+comment2.target=boolean\ validar(java.lang.String)
+numComments=3
